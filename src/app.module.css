@@ -1,0 +1,9 @@
+pre {
+  perspective: 300px;
+  position: absolute;
+  top: 0;
+}
+
+pre.hover {
+  rotate: 360deg;
+}
